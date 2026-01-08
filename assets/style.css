@@ -55,6 +55,7 @@ body {
   object-fit: cover;
   border: 4px solid white;
   margin-bottom: 20px;
+  display: block;
 }
 
 .section {
