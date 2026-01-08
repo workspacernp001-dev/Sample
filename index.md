@@ -1,48 +1,47 @@
-# X
+![Professional Banner](assets/profile.jpg)
 
-## Finance & Accounts Professional | Portfolio
+# Professional Portfolio
+
+## Finance & Accounts Professional
 
 Welcome to my professional portfolio website.  
-I am a finance and accounts professional with experience in accounting, financial reporting, taxation, and audit-related work.
+This site highlights my experience, skills, and areas of work in accounting, finance, and compliance.
 
 ---
 
-## About Me
+## About
 
-I am a finance professional with hands-on exposure to accounting operations, financial statement preparation, statutory compliance, and audit support work.  
-I have worked extensively with books of accounts, general ledgers, reconciliations, and financial data analysis.
-
-I am detail-oriented, analytical, and focused on building a strong career in finance, accounting, and corporate advisory roles.
+I am a finance and accounts professional with practical exposure to accounting operations, financial reporting, reconciliations, and compliance support.  
+I focus on accuracy, structured reporting, and continuous skill development in finance-related roles.
 
 ---
 
-## Skills
+## Core Skills
 
 - Financial Accounting & Reporting  
 - Audit & Assurance Support  
-- Direct & Indirect Taxation  
+- Direct & Indirect Tax Compliance  
 - Financial Statement Preparation  
-- General Ledger & Reconciliations  
-- MS Excel (Advanced reporting & analysis)  
-- Basic Financial Analysis  
+- Reconciliations & Analysis  
+- Advanced MS Excel  
 
 ---
 
-## Portfolio
+## Portfolio Highlights
 
-### 📌 Accounting & Finance Work
-- Preparation of financial statements from trial balances  
-- Bank, GST, and ledger reconciliations  
-- Support in audit documentation and working papers  
+### 📌 Accounting & Reporting
+- Preparation of financial statements  
+- Trial balance analysis  
+- Ledger scrutiny and reconciliations  
 
-### 📌 Compliance & Taxation
-- Assistance in income-tax and GST compliance  
-- TDS calculations and return support  
-- Statutory filing coordination  
+### 📌 Compliance Support
+- GST & income-tax assistance  
+- TDS calculations and returns  
+- Statutory documentation  
 
-### 📌 Tools & Systems
-- MS Excel (advanced usage)  
-- Exposure to accounting and compliance systems  
+### 📌 Tools
+- MS Excel (advanced functions & reports)  
+- Accounting & compliance systems  
 
 ---
 
@@ -50,5 +49,3 @@ I am detail-oriented, analytical, and focused on building a strong career in fin
 
 📧 Email: x@email.com  
 📍 Location: India  
-
-Feel free to connect for finance, accounting, and audit-related opportunities.
